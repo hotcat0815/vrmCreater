@@ -1,1 +1,51 @@
-
+[
+  {
+    "giftID": "AnERCPq187ac",
+    "checkID": "All",
+    "rewardsString": "Diamond:45",
+    "message": "",
+    "describe": "第1天签到奖励"
+  },
+  {
+    "giftID": "PFcaD12534l",
+    "checkID": "All",
+    "rewardsString": "Diamond:45",
+    "message": "",
+    "describe": "第2天签到奖励"
+  },
+  {
+    "giftID": "Cadf12FINDdc",
+    "checkID": "All",
+    "rewardsString": "Diamond:15",
+    "message": "",
+    "describe": "第3天签到奖励"
+  },
+  {
+    "giftID": "23jLOI89ca2",
+    "checkID": "All",
+    "rewardsString": "Diamond:15",
+    "message": "",
+    "describe": "第4天签到奖励"
+  },
+  {
+    "giftID": "Dc93jnvBv93",
+    "checkID": "All",
+    "rewardsString": "Diamond:15",
+    "message": "",
+    "describe": "第5天签到奖励"
+  },
+  {
+    "giftID": "ADinec3874C",
+    "checkID": "All",
+    "rewardsString": "Diamond:20",
+    "message": "",
+    "describe": "第6天签到奖励"
+  },
+  {
+    "giftID": "Abcia934BND",
+    "checkID": "All",
+    "rewardsString": "Diamond:25",
+    "message": "",
+    "describe": "第7天签到奖励"
+  }
+]
