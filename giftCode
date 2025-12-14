@@ -2,49 +2,56 @@
   {
     "giftID": "AnERCPq187ac",
     "checkID": "All",
-    "rewardsString": "Coin:50",
+    "giftTypeString": "Item",
+    "rewardsString": "EquipmentDataEars00014",
     "message": "",
     "describe": "第1天签到奖励"
   },
   {
     "giftID": "PFcaD12534l",
     "checkID": "All",
-    "rewardsString": "Coin:50",
+    "giftTypeString": "Item",
+    "rewardsString": "EquipmentDataEars00015",
     "message": "",
     "describe": "第2天签到奖励"
   },
   {
     "giftID": "Cadf12FINDdc",
     "checkID": "All",
-    "rewardsString": "Coin:50",
+    "giftTypeString": "Item",
+    "rewardsString": "EquipmentDataEars00016",
     "message": "",
     "describe": "第3天签到奖励"
   },
   {
-    "giftID": "23jLOI89ca2",
+    "giftID": "23jLOI89cat",
     "checkID": "All",
-    "rewardsString": "Coin:50",
+    "giftTypeString": "Item",
+    "rewardsString": "EquipmentDataEars00017",
     "message": "",
     "describe": "第4天签到奖励"
   },
   {
-    "giftID": "Dc93jnvBv93",
+    "giftID": "Dc93jnvBv9c",
     "checkID": "All",
-    "rewardsString": "Coin:50",
+    "giftTypeString": "Item",
+    "rewardsString": "EquipmentDataEars00018",
     "message": "",
     "describe": "第5天签到奖励"
   },
   {
     "giftID": "ADinec3874C",
     "checkID": "All",
-    "rewardsString": "Coin:50",
+    "giftTypeString": "Item",
+    "rewardsString": "EquipmentDataEars00020",
     "message": "",
     "describe": "第6天签到奖励"
   },
   {
     "giftID": "Abcia934BND",
     "checkID": "All",
-    "rewardsString": "Coin:50",
+    "giftTypeString": "Item",
+    "rewardsString": "EquipmentDataEars00033",
     "message": "",
     "describe": "第7天签到奖励"
   }
