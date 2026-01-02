@@ -1,0 +1,136 @@
+{
+    "dataList": [
+        {
+            "adID": "PopUp",
+            "showList": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "dataList": [
+                {
+                    "key": "UnlockItem00001",
+                    "titleInfo": {
+                        "value": "关注小红书领取专属配饰“可爱奶嘴“",
+                        "isCustom": false,
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "size": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "messageInfo": {
+                        "value": "点击视频跳转，完成关注后可获得奖励",
+                        "isCustom": false,
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "size": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "imageURLInfo": {
+                        "value": "",
+                        "isCustom": false,
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "size": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "videoURLInfo": {
+                        "value": "https://1256130912.vod-qcloud.com/b2b1afafvodtranssh1256130912/e1765df45145403710130055577/v.f100020.mp4",
+                        "isCustom": false,
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "size": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "openURL": "https://www.xiaohongshu.com/user/profile/5d5c12600000000001000daa?xsec_token=YBbISjPYjYwt_OsbGZSYDNWrkwPJjLZ82PLL6Uec0lmeE%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=5d5c12600000000001000daa&apptime=1738493431&share_id=74431eb0ee584110b8410d57cf494aba&share_channel=copy_link",
+                    "totalShowTimes": -1,
+                    "totalRewardTimes": 1,
+                    "haveReward": true,
+                    "onlyShowCN": false,
+                    "rewardNeedBackTime": 15.0,
+                    "rewardString": "EquipmentDataFaceMask20001",
+                    "rewardFailMessage": "任务未完成，必须完成关注才可领取奖励，请重试"
+                },
+                {
+                    "key": "UnlockItem00002",
+                    "titleInfo": {
+                        "value": "关注抖音领取专属活动配饰“暗黑眼罩“",
+                        "isCustom": false,
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "size": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "messageInfo": {
+                        "value": "点击视频跳转，完成关注后可获得奖励",
+                        "isCustom": false,
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "size": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "imageURLInfo": {
+                        "value": "",
+                        "isCustom": false,
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "size": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "videoURLInfo": {
+                        "value": "https://1256130912.vod-qcloud.com/b2b1afafvodtranssh1256130912/e8c055b45145403710130399044/v.f100030.mp4",
+                        "isCustom": false,
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "size": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "openURL": "https://www.douyin.com/user/MS4wLjABAAAAa2U50ws1Ce9IjZMVNqLtJM-IlMIfB03UOskY_kpwfDWwRRfykLAIwlEgLZ_9Wt9Q?previous_page=app_code_link",
+                    "totalShowTimes": -1,
+                    "totalRewardTimes": 1,
+                    "haveReward": true,
+                    "onlyShowCN": false,
+                    "rewardNeedBackTime": 15.0,
+                    "rewardString": "EquipmentDataGlass10003",
+                    "rewardFailMessage": "任务未完成，必须完成关注才可领取奖励，请重试"
+                }
+            ]
+        }
+    ]
+}
